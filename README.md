@@ -6,6 +6,9 @@ Arm-control-using-Web-Serial-API-and-Arduino-code What is the Web Serial API?
 The Web Serial API provides a way for websites to read from and write to a serial device with JavaScript. 
 Serial devices are connected either through a serial port on the user's system or through removable USB and Bluetooth devices that emulate a serial port.
 
+
+Required In The Assignment :
+
 1- Create a web page that converts audio to text
 
 2- We connected it with arduino connected with servo motor
