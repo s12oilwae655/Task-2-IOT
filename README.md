@@ -13,4 +13,5 @@ Serial devices are connected either through a serial port on the user's system o
 3- When we say right, the motor moves to 180 degrees, and when we say left, the motor moves to zero degrees
 
 
-![image](https://user-images.githubusercontent.com/107873476/182010906-4ebe2890-524c-4528-959f-b19f863424f9.png)
+![image](https://user-images.githubusercontent.com/107873476/182010972-2818b283-d33d-4f4c-84bd-a98cffc9373f.png)
+
