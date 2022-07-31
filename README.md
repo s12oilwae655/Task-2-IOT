@@ -22,9 +22,11 @@ command
 
 if you have servo you can test the script connect the servo to pin 8 and write this command in seral monitor
 
+
 left@
 right@
 top@
+
 
 
 ![image](https://user-images.githubusercontent.com/107873476/182038396-0e499fb6-94c3-423a-8b5e-9f83306e5547.png)
